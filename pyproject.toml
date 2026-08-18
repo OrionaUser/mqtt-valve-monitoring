@@ -11,6 +11,10 @@ dependencies = [
     "fastapi[standard]>=0.141.1",
     "paho-mqtt>=2.1.0",
     "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "streamlit>=1.61.1",
+    "streamlit-autorefresh>=1.0.1",
+    "streamlit-echarts>=0.7.0",
 ]
 
 [project.scripts]
